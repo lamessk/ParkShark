@@ -36,7 +36,6 @@ public class CustomInfoWindowAdapter implements GoogleMap.InfoWindowAdapter {
 
     @Override
     public View getInfoWindow(Marker marker) {
-
         renderWindowText(marker, mWindow);
         return mWindow;
 
