@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1045976876750",
+    "firebase_url": "https://parkshark-222323.firebaseio.com",
+    "project_id": "parkshark-222323",
+    "storage_bucket": "parkshark-222323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045976876750:android:d2101b6d0fa826d1",
+        "android_client_info": {
+          "package_name": "com.example.lames.parkshark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045976876750-4rra1rpht902t5e5o8sh1a3vaav5qpjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lames.parkshark",
+            "certificate_hash": "164c0b702e515d2ef17f2b7655b8b77487e68745"
+          }
+        },
+        {
+          "client_id": "1045976876750-sitsm4kcth4k9pjuvfcdcoa3kj2dilt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ5aM_E-_XZr6eDA_ILnEpru8sB5PFIs8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045976876750-sitsm4kcth4k9pjuvfcdcoa3kj2dilt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
