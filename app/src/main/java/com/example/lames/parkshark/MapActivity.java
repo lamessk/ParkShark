@@ -344,7 +344,4 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
             places.release();
         }
     };
-
-
-
 }
