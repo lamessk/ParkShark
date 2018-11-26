@@ -39,7 +39,7 @@
                     android:paddingBottom="50dp"
                     android:text="Settings"
                     android:textAlignment="center"
-                    android:textColor="@color/cast_expanded_controller_background_color"
+                    android:textColor="@color/common_google_signin_btn_text_dark_focused"
                     android:textSize="30sp"
                     tools:layout_editor_absoluteX="150dp"
                     tools:layout_editor_absoluteY="0dp" />
@@ -66,7 +66,7 @@
                     android:clickable="true"
                     android:onClick="onClick"
                     android:text="Sign up"
-                    android:textColor="@color/cast_expanded_controller_background_color"
+                    android:textColor="@color/common_google_signin_btn_text_dark_focused"
                     android:textSize="24sp"
                     tools:layout_editor_absoluteX="63dp"
                     tools:layout_editor_absoluteY="189dp" />
@@ -78,7 +78,7 @@
                     android:clickable="true"
                     android:onClick="onClick"
                     android:text="Login"
-                    android:textColor="@color/cast_expanded_controller_background_color"
+                    android:textColor="@color/common_google_signin_btn_text_dark_focused"
                     android:textSize="24sp" />
             </LinearLayout>
         </LinearLayout>
